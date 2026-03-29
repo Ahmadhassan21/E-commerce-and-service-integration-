@@ -7,4 +7,6 @@
 - express server initialized
 - packages: cors, cookie-parser, json, dotenv are setup
 - dev packages: nodemon
+- mongodb atlas connected
+- odm: mongoose
 ```
